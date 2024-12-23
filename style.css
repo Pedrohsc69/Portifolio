@@ -147,6 +147,16 @@ nav a:hover {
     font-size: 1.1rem;
 }
 
+.skils .skil{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+}
+.skils .skil img{
+    width: 84px;
+}
+
 .contact {
     text-align: center;
 
@@ -215,7 +225,6 @@ nav a:hover {
 
 .contact .icons a:hover {
     background: #1a5ccc;
-    transform: scale(1.05   );
 }
 
 footer {
